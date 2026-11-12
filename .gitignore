@@ -1,0 +1,5 @@
+/sistema/vendor/
+/sistema/config/*.local.ini
+/sistema/config/app.key
+/.env
+/.env.*
